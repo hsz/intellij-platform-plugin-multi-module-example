@@ -1,9 +1,9 @@
-package com.github.hsz.intellijplatformpluginmultimoduleexample.services
+package org.jetbrains.plugins.multimodule.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.hsz.intellijplatformpluginmultimoduleexample.MyBundle
+import org.jetbrains.plugins.multimodule.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

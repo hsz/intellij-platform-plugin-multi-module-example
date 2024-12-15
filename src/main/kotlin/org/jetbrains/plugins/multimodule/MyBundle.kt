@@ -1,4 +1,4 @@
-package com.github.hsz.intellijplatformpluginmultimoduleexample
+package org.jetbrains.plugins.multimodule
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

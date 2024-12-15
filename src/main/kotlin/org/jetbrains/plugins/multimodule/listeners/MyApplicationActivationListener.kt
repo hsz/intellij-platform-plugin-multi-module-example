@@ -1,4 +1,4 @@
-package com.github.hsz.intellijplatformpluginmultimoduleexample.listeners
+package org.jetbrains.plugins.multimodule.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

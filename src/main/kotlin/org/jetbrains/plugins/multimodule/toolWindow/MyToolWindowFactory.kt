@@ -1,4 +1,4 @@
-package com.github.hsz.intellijplatformpluginmultimoduleexample.toolWindow
+package org.jetbrains.plugins.multimodule.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.hsz.intellijplatformpluginmultimoduleexample.MyBundle
-import com.github.hsz.intellijplatformpluginmultimoduleexample.services.MyProjectService
+import org.jetbrains.plugins.multimodule.MyBundle
+import org.jetbrains.plugins.multimodule.services.MyProjectService
 import javax.swing.JButton
 
 
